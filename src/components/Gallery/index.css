@@ -1,0 +1,28 @@
+.bg {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding-left: 50px;
+}
+.para {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding-left: 50px;
+}
+.un-order {
+  display: flex;
+  flex-direction: row;
+}
+.img1 {
+  height: 300px;
+  width: 450px;
+  padding-left: 50px;
+  border-radius: 10px;
+  margin-top: 5px;
+}

@@ -1,0 +1,14 @@
+.list {
+  list-style-type: none;
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+.btn {
+  background-color: #ffffff;
+  border: 0px;
+}
+.hide-img {
+  opacity: 0.5;
+}
